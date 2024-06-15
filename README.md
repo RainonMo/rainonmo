@@ -20,49 +20,46 @@ Here are some ideas to get you started:
 - Web项目
   1. [AI大模型应用导航(Verty部署GitHub项目并配置域名+飞书)](http://rainonmo.com)
   2. [打卡点评(SpringBoot2+Vue2+Nginx)](https://github.com/RainonMo/dk-dianping)
-  3. [RPC框架(Java8+SpringBoot2)](https://github.com/RainonMo/yu-rpc)
-  4. [myworld前后端项目(SpringBoot2+Node16+Pro+React18)](https://github.com/RainonMo/myworld-backend)
+  3. [RPC框架(Java8+SpringBoot2)](https://github.com/RainonMo/rpc-demo)
+  4. [MyWorld前后端项目(SpringBoot2+Node16+Pro+React18)](https://github.com/RainonMo/springboot)
 
   - 参考
   - [BI系统]()
-  - [weblog博客(SpringBoot2+Node16+Vite+Vue3)]()
+  - [Weblog博客(SpringBoot2+Node16+Vite+Vue3)]()
 
 
 - Ai项目
   1. [AI求职助手提示词](http://rainonmo.com)
-  2. [GO城市旅游助手(zelin+星火+提示词+联网)](http://rainonmo.com)
+  2. [GO城市旅游助手(Zelin+星火+提示词+联网)](http://rainonmo.com)
   3. [BI数据分析(鱼聪明+百度+提示词+预设案例)](http://rainonmo.com)
   4. [电商客服提示词](http://rainonmo.com)
-  5. [文章总结助手(chatglm+提示词+联网)](http://rainonmo.com)
+  5. [文章总结助手(ChatGLM+提示词+联网)](http://rainonmo.com)
 
   
   - 开发中
-  - [agent(Python3+MetaGPT))]()
+  - [Agent(Python3+MetaGPT))]()
   - [AI音乐(Node18+Nextjs)]()
 
 
 ## 编程技能
-Java、SSM、SpringBoot
+Java、SSM、SpringBoot、MySQL、Redis、RabbitMQ
 
-MySQL、Redis、RabbitMQ
+Vue、Vite、React、Pro、Nextjs
 
-Vue、Vite、React、Pro、
-
-Python、Nextjs
+Python、Git、Meavn
 
 Linux、Docker
 
-Git、Meavn
+
 
 ## 自媒体
 
-GitHub：https://github.com/rainonmo
 
-掘金：https://juejin.cn/user/4011496889391688
-
-公众号:IT知识导航网
+公众号：IT知识导航网
 
 知识星球：AI大模型和它的元宇宙(限免)
+
+掘金：https://juejin.cn/user/4011496889391688
 
 
 ## 个人介绍
