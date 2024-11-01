@@ -18,27 +18,28 @@ Here are some ideas to get you started:
 ### 开发的项目(developed projects)
 
 - Web项目
-  1. [AI大模型应用导航(Verty部署GitHub项目并配置域名+飞书)](http://rainonmo.com)
+  1. [AI大模型应用导航(Verty部署GitHub项目并配置域名+飞书)](http://rainonmo.cn)
   2. [打卡点评(SpringBoot2+Vue2+Nginx)](https://github.com/RainonMo/dk-dianping)
   3. [RPC框架(Java8+SpringBoot2)](https://github.com/RainonMo/rpc-demo)
   4. [MyWorld前后端项目(SpringBoot2+Node16+Pro+React18)](https://github.com/RainonMo/springboot)
+  5. [文本/文件传输工具](http://81.71.157.57:5000/)
 
   - 参考
-  - [BI系统]()
-  - [Weblog博客(SpringBoot2+Node16+Vite+Vue3)]()
+  - [程序员鱼皮](https://github.com/liyupi?tab=repositories)
+  - [Weblog博客(SpringBoot2+Node16+Vite+Vue3+ElementUI)](https://github.com/weiwosuoai/WeBlog)
 
 
 - Ai项目
-  1. [AI求职助手提示词](http://rainonmo.com)
-  2. [GO城市旅游助手(Zelin+星火+提示词+联网)](http://rainonmo.com)
-  3. [BI数据分析(鱼聪明+百度+提示词+预设案例)](http://rainonmo.com)
-  4. [电商客服提示词](http://rainonmo.com)
-  5. [文章总结助手(ChatGLM+提示词+联网)](http://rainonmo.com)
+  1. [AI求职助手提示词](http://rainonmo.cn)
+  2. [GO城市旅游助手(Zelin+星火+提示词+联网)](http://rainonmo.cn)
+  3. [BI数据分析(鱼聪明+百度+提示词+预设案例)](http://rainonmo.cn)
+  4. [电商客服提示词](http://rainonmo.cn)
+  5. [文章总结助手(ChatGLM+提示词+联网)](http://rainonmo.cn)
 
   
   - 开发中
-  - [Agent(Python3+MetaGPT))]()
-  - [AI音乐(Node18+Nextjs)]()
+  - [Agent(Python3+MetaGPT))](http://rainonmo.cn)
+  - [AI音乐(Node18+Nextjs)](http://rainonmo.cn)
 
 
 ## 编程技能
